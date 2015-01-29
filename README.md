@@ -14,6 +14,6 @@ Tasks and tools:
 
 ## Usage
 	"npm install" (once) - node modules dependencies will be added.
-	"gulp" - to start. Gulp starts the built-in web server and bunldles the .js files. 
+	"gulp" - to start. Gulp starts the built-in web server and bundles the .js files. 
 
 	
